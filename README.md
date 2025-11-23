@@ -1,4 +1,5 @@
-# Sugar Studio - Online Bakery
+# Sugar Studio - Online Bakery 
+// Demo Website, Not fully Functional 
 
 An e-commerce website for an online bakery business built with PHP, MySQL, and HTML/CSS.
 
