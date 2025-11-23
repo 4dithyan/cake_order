@@ -33,6 +33,10 @@ An e-commerce website for an online bakery business built with PHP, MySQL, and H
 - Email: admin@sugarstudio.com
 - Password: admin123
 
+## Customer Access
+
+- Regsiter and login.
+- 
 ## File Structure
 
 - Public pages: Root PHP files (home.php, products.php, etc.)
